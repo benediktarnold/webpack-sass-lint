@@ -1,0 +1,28 @@
+@import './anotherstyle.scss';
+
+$C1: #FFFFFF;
+$C2: #000000;
+$C3: #189DD9;
+$C4: #D43646;
+$C5: #505050;
+
+// all colors from workbench application design
+$color-blue: #1e87b7;
+$color-light-blue: #2AA9E3;
+$color-highlight: #259acf;
+$color-dark-grey: #5c5c5c;
+$color-half-dark-grey: #979797;
+$color-grey: #c4c4c4;
+$color-light-grey: #f6f6f6;
+$color-nature: #FAFAFA;
+$color-white: #ffffff;
+$color-box-shadow: rgba(0, 0, 0, 0.25);
+
+.my-class {
+    float: left;
+   position: relative;
+   display: block;
+}
+
+
+
